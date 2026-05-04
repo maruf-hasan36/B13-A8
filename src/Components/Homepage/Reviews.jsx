@@ -75,7 +75,7 @@ const Reviews = () => {
       reviewer: "Rifat Khan",
       text: "Amar temon valo lage nai. Lekha thik chilo kintu story ta dhorte parini.",
       rating: 2.5,
-      date: "2026-04-18",
+      date: "2026-04-17",
     },
     {
       id: 10,
