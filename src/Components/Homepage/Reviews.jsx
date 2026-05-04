@@ -110,7 +110,7 @@ const Reviews = () => {
           className="font1 !mt-8  leading-none tracking-tighter "
           style={{ fontSize: "clamp(40px, 8vw, 40px)" }}
         >
-          See What Our Users Have To Says
+          See What Our Users Have To Say
         </h1>
       </motion.div>
 
