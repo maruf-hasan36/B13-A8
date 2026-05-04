@@ -1,0 +1,64 @@
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap");
+
+@import "tailwindcss";
+@import "@heroui/styles";
+@plugin "daisyui";
+
+:root {
+  --obsidian: #0b0f14;
+  --deep: #121821;
+  --surface: #1a2230;
+  --card: #222c3d;
+  --lifted: #2b364a;
+
+  --gold: #7c3aed;
+  --gold2: #a78bfa;
+  --gold3: #c4b5fd;
+  --gold-dim: rgba(124, 58, 237, 0.18);
+  --gold-line: rgba(124, 58, 237, 0.28);
+
+  --ivory: #e5e7eb;
+  --ivory2: #d1d5db;
+  --muted: #9ca3af;
+  --muted2: #6b7280;
+
+  --cream-text: #cbd5f5;
+  --rust: #06b6d4;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  overflow-x: hidden;
+  font-family: "Inter", sans-serif;
+  background: #fff8e9;
+}
+
+.font1 {
+  font-family: "Playfair Display", serif;
+}
+
+.lato-thin {
+  font-family: "Lato", sans-serif;
+  font-weight: 90;
+}
+
+.roboto {
+  font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-variation-settings: "wdth" 100;
+}
+
+@layer utilities {
+  .animate-bounce-slow {
+    animation: bounce 2s infinite;
+  }
+}
