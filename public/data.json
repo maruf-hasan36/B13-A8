@@ -1,182 +1,182 @@
 [
   {
     "id": 1,
-    "title": "The Night Circus",
+    "title": "Whispers of the Night",
     "author": "Erin Morgenstern",
-    "description": "A mysterious circus that only appears at night becomes the stage for a fierce competition between two young magicians, Celia and Marco, who have been trained since childhood for a game they don't fully understand.",
+    "description": "A mysterious circus that only appears at night...",
     "category": "Story",
     "available_quantity": 5,
-    "image_url": "https://covers.openlibrary.org/b/isbn/9780385534635-L.jpg"
+    "image_url": "https://images.unsplash.com/photo-1512820790803-83ca734da794"
   },
   {
     "id": 2,
-    "title": "Clean Code",
+    "title": "Mastering Clean Code",
     "author": "Robert C. Martin",
-    "description": "A handbook of agile software craftsmanship that teaches programmers how to write clean, readable, and maintainable code through practical examples and best practices.",
+    "description": "A handbook of agile software craftsmanship...",
     "category": "Tech",
     "available_quantity": 8,
-    "image_url": "https://covers.openlibrary.org/b/isbn/9780132350884-L.jpg"
+    "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475"
   },
   {
     "id": 3,
-    "title": "Cosmos",
+    "title": "Journey Through Space",
     "author": "Carl Sagan",
-    "description": "A journey through the universe exploring the origins of life, the nature of consciousness, and humanity's place in the cosmos, blending science with philosophy and wonder.",
+    "description": "A journey through the universe...",
     "category": "Science",
     "available_quantity": 6,
-    "image_url": "https://covers.openlibrary.org/b/id/8416374-L.jpg" 
+    "image_url": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa"
   },
   {
     "id": 4,
-    "title": "Dune",
+    "title": "Desert of Destiny",
     "author": "Frank Herbert",
-    "description": "Set in a distant future, a young nobleman named Paul Atreides must navigate politics, religion, and survival on the desert planet Arrakis, the only source of the most valuable substance in the universe.",
+    "description": "Set in a distant future...",
     "category": "Story",
     "available_quantity": 4,
-    "image_url": "https://covers.openlibrary.org/b/isbn/9780441013593-L.jpg"
+    "image_url": "https://images.unsplash.com/photo-1501785888041-af3ef285b470"
   },
   {
     "id": 5,
-    "title": "The Pragmatic Programmer",
+    "title": "Code Like a Pro",
     "author": "Andrew Hunt & David Thomas",
-    "description": "A collection of practical tips and philosophies for software developers covering topics from personal responsibility and career development to architectural techniques for keeping your code flexible and reusable.",
+    "description": "A collection of practical tips...",
     "category": "Tech",
     "available_quantity": 7,
-    "image_url": "https://covers.openlibrary.org/b/isbn/9780135957059-L.jpg"
+    "image_url": "https://images.unsplash.com/photo-1519389950473-47ba0277781c"
   },
   {
     "id": 6,
-    "title": "A Brief History of Time",
+    "title": "Secrets of the Universe",
     "author": "Stephen Hawking",
-    "description": "Stephen Hawking explores the nature of space and time, black holes, and the Big Bang theory, making complex cosmological concepts accessible to general readers.",
+    "description": "Explores space, time, black holes...",
     "category": "Science",
     "available_quantity": 9,
-    "image_url": "https://covers.openlibrary.org/b/isbn/9780553380163-L.jpg"
+    "image_url": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564"
   },
   {
     "id": 7,
-    "title": "The Midnight Library",
+    "title": "Life Beyond Choices",
     "author": "Matt Haig",
-    "description": "Between life and death, Nora Seed discovers a library containing books of all the lives she could have lived, forcing her to confront what it truly means to live a fulfilling life.",
+    "description": "Between life and death...",
     "category": "Story",
     "available_quantity": 3,
-    "image_url": "https://covers.openlibrary.org/b/isbn/9780525559474-L.jpg"
+    "image_url": "https://images.unsplash.com/photo-1495446815901-a7297e633e8d"
   },
   {
     "id": 8,
-    "title": "You Don't Know JS",
+    "title": "JavaScript Deep Dive",
     "author": "Kyle Simpson",
-    "description": "A deep dive into the core mechanisms of JavaScript, covering scope, closures, this, prototypes, and asynchronous programming to help developers truly master the language.",
+    "description": "A deep dive into JavaScript...",
     "category": "Tech",
     "available_quantity": 11,
-    "image_url": "https://covers.openlibrary.org/b/isbn/9781491924464-L.jpg"
+    "image_url": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4"
   },
   {
     "id": 9,
-    "title": "The Selfish Gene",
+    "title": "Evolution Explained",
     "author": "Richard Dawkins",
-    "description": "A groundbreaking work in evolutionary biology that introduces the gene-centered view of evolution and the concept of the meme, changing how scientists and the public understand natural selection.",
+    "description": "A groundbreaking work in biology...",
     "category": "Science",
     "available_quantity": 5,
-    "image_url": "https://covers.openlibrary.org/b/isbn/9780198788607-L.jpg"
+    "image_url": "https://images.unsplash.com/photo-1532094349884-543bc11b234d"
   },
   {
     "id": 10,
-    "title": "The Name of the Wind",
+    "title": "Legend of the Wind",
     "author": "Patrick Rothfuss",
-    "description": "The first day in the story of Kvothe, a legendary wizard and musician who recounts his extraordinary life from his childhood in a traveling troupe to his years at a renowned university for magic.",
+    "description": "The story of a legendary wizard...",
     "category": "Story",
     "available_quantity": 6,
-    "image_url": "https://covers.openlibrary.org/b/isbn/9780756404079-L.jpg"
+    "image_url": "https://images.unsplash.com/photo-1516979187457-637abb4f9353"
   },
   {
     "id": 11,
-    "title": "Design Patterns",
+    "title": "Software Design Secrets",
     "author": "Gang of Four",
-    "description": "A classic software engineering book presenting 23 foundational design patterns that provide reusable solutions to commonly occurring problems in object-oriented software design.",
+    "description": "23 foundational design patterns...",
     "category": "Tech",
     "available_quantity": 4,
-    "image_url": "https://covers.openlibrary.org/b/isbn/9780201633610-L.jpg"
+    "image_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c"
   },
   {
     "id": 12,
-    "title": "The Gene",
+    "title": "Genetics Uncovered",
     "author": "Siddhartha Mukherjee",
-    "description": "An intimate history of the gene that interweaves science, social history, and personal narrative to explore how genes define our identity and shape our future.",
+    "description": "An intimate history of the gene...",
     "category": "Science",
     "available_quantity": 7,
-    "image_url": "https://covers.openlibrary.org/b/isbn/9781476733524-L.jpg"
+    "image_url": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69"
   },
   {
     "id": 13,
-    "title": "Project Hail Mary",
+    "title": "Mission: Save Earth",
     "author": "Andy Weir",
-    "description": "A lone astronaut wakes up in a spacecraft with no memory, only to discover he is on a desperate one-man mission to save Earth from an extinction-level threat.",
+    "description": "A lone astronaut on a mission...",
     "category": "Story",
     "available_quantity": 8,
-    "image_url": "https://covers.openlibrary.org/b/isbn/9780593135204-L.jpg"
+    "image_url": "https://images.unsplash.com/photo-1447433819943-74a20887a5b4"
   },
   {
     "id": 14,
-    "title": "The Innovators",
+    "title": "Digital Revolution",
     "author": "Walter Isaacson",
-    "description": "A chronicle of the pioneers who created the computer and the internet, revealing how creativity and collaboration shaped the digital revolution that defines our modern world.",
+    "description": "The pioneers of computers...",
     "category": "Tech",
     "available_quantity": 5,
-    "image_url": "https://covers.openlibrary.org/b/id/8739218-L.jpg"
+    "image_url": "https://images.unsplash.com/photo-1518779578993-ec3579fee39f"
   },
   {
     "id": 15,
-    "title": "Sapiens",
+    "title": "History of Humanity",
     "author": "Yuval Noah Harari",
-    "description": "A sweeping narrative of humanity's history from the Stone Age to the twenty-first century, exploring how biology and history shaped the human species and the world we inhabit.",
+    "description": "A sweeping narrative of humanity...",
     "category": "Science",
     "available_quantity": 10,
-    "image_url": "https://covers.openlibrary.org/b/isbn/9780062316097-L.jpg"
+    "image_url": "https://images.unsplash.com/photo-1461360370896-922624d12aa1"
   },
   {
     "id": 16,
-    "title": "The Alchemist",
+    "title": "The Hidden Treasure",
     "author": "Paulo Coelho",
-    "description": "A young Andalusian shepherd embarks on a journey to find treasure near the Egyptian pyramids and along the way discovers the true meaning of his personal legend and the soul of the world.",
+    "description": "A shepherd's journey to treasure...",
     "category": "Story",
     "available_quantity": 12,
-    "image_url": "https://covers.openlibrary.org/b/isbn/9780062315007-L.jpg"
+    "image_url": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee"
   },
   {
     "id": 17,
-    "title": "Structure and Interpretation of Computer Programs",
-    "author": "Harold Abelson & Gerald Jay Sussman",
-    "description": "A foundational computer science textbook that teaches programming as a discipline of building abstractions, covering functional programming, recursion, and the design of interpreters.",
+    "title": "Programming Foundations",
+    "author": "Abelson & Sussman",
+    "description": "A foundational CS textbook...",
     "category": "Tech",
     "available_quantity": 3,
-    "image_url": "https://covers.openlibrary.org/b/isbn/9780262510875-L.jpg"
+    "image_url": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4"
   },
   {
     "id": 18,
-    "title": "The Origin of Species",
+    "title": "Evolution Origins",
     "author": "Charles Darwin",
-    "description": "Darwin's revolutionary work presenting his theory of evolution by natural selection, demonstrating how all species of life have descended from common ancestors through a branching pattern of evolution.",
+    "description": "Theory of evolution...",
     "category": "Science",
     "available_quantity": 6,
-    "image_url": "https://covers.openlibrary.org/b/isbn/9780140432053-L.jpg"
+    "image_url": "https://images.unsplash.com/photo-1502082553048-f009c37129b9"
   },
   {
     "id": 19,
-    "title": "Atomic Habits",
+    "title": "Small Habits Big Results",
     "author": "James Clear",
-    "description": "A practical guide to building good habits and breaking bad ones, presenting a proven framework for making tiny changes that lead to remarkable results in personal and professional life.",
+    "description": "Build good habits...",
     "category": "Story",
     "available_quantity": 14,
-    "image_url": "https://covers.openlibrary.org/b/isbn/9780735211292-L.jpg"
+    "image_url": "https://images.unsplash.com/photo-1495446815901-a7297e633e8d"
   },
   {
     "id": 20,
-    "title": "The Double Helix",
-    "author": "James D. Watson",
-    "description": "A personal account of the discovery of the structure of DNA, offering a candid look at the competitive world of scientific research and the human drama behind one of the greatest scientific achievements.",
+    "title": "DNA Discovery",
+    "author": "James Watson",
+    "description": "Discovery of DNA structure...",
     "category": "Science",
     "available_quantity": 4,
-    "image_url": "https://covers.openlibrary.org/b/isbn/9780743216302-L.jpg"
+    "image_url": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b"
   }
 ]
